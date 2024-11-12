@@ -1,2 +1,6 @@
 *.log
 __pycache__
+selenium-screenshot-*
+log.html
+output.xml
+report.html
